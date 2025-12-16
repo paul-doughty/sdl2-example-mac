@@ -1,0 +1,7 @@
+[
+{
+    "directory": "/Users/pauldoughty/dev/SDL2_dev/sdl-vscode-c-cpp",
+    "command": "clang++ -I/opt/homebrew/include -I/opt/homebrew/include/SDL2 -D_THREAD_SAFE -g -ggdb -w main.cpp -L/opt/homebrew/lib -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -o build/mac/main",
+    "file": "/Users/pauldoughty/dev/SDL2_dev/sdl-vscode-c-cpp/main.cpp"
+}
+]
