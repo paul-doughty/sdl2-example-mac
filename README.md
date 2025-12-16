@@ -1,6 +1,6 @@
 # SDL base project
 
-![sdl sample screenshot](.docs/screenshot.png)
+![sdl sample screenshot](.docs/Screenshot_new.png)
 
 This project is part of a tutorial by The Science of Code. For a complete walkthrough, please check the following links otherwise continue reading the *quickstart*:
 
