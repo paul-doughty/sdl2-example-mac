@@ -8,7 +8,6 @@
 // - This project uses unity build, includes inside secondary files are used only for IDE purpouses (code completition, syntax hl, etc).
 // - "IWYU pragma: keep" comments are used to ignore clangd warnings related with unity builds.
 
-#include "SDL_pixels.h"
 #define UNITY_BUILD 1
 #include <stdio.h>              // IWYU pragma: keep
 #include <math.h>               // IWYU pragma: keep
